@@ -1,4 +1,4 @@
-# v2ray-heroku
+# v2ray-new
 
 > ~~貌似新建的app有些需要科学访问~~，如果需要，请使用cloudflare worker CDN 套一层。
 
@@ -6,7 +6,7 @@
 
 > v2ray-heroku 是我的主力 backup，我会日常维护它。加入或者修改一些我认为好的配置。但这一般会导致客户端配置需要些许修改。 不过具体配置都会体现在 [详细 VLESS websocket 客户端配置](#vless-websocket-客户端配置)
 
-首先查看别人的 [youtube 教程](https://www.youtube.com/watch?v=xHZyDsFYdvA)，了解怎么配置 v2ray-heroku。**本项目使用最新 VLESS 协议，请在客户端配置选择 VLESS**。  
+首先查看别人的 [youtube 教程](https://www.youtube.com/watch?v=xHZyDsFYdv)，了解怎么配置 v2ray-new**本项目使用最新 VLESS 协议，请在客户端配置选择 VLESS**。  
 [详细 VLESS websocket 客户端配置](#vless-websocket-客户端配置) 。
 
 如果你还想自动化你的 heroku，请查看下面的教程。
@@ -27,7 +27,7 @@
 
 ## 一键部署
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/butt.svg)](https://heroku.com/deploy)
 
 ## Github Actions 管理
 
